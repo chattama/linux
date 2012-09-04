@@ -1,4 +1,5 @@
 #!/bin/sh
+exit 0
 #
 # A depmod wrapper used by the toplevel Makefile
 
